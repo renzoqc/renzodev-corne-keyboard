@@ -1,5 +1,5 @@
 
-# 🧠 Corne Keyboard QMK Configuration - `renzodev_keyboard`
+# ⌨️ Corne Keyboard QMK Configuration - `renzodev_keyboard`
 
 🎉 Welcome! This repository contains my **personal QMK configuration** for the [Corne split keyboard](https://github.com/foostan/crkbd). It includes a custom keymap, configuration header, and a modified font file to personalize your typing experience.
 
@@ -74,6 +74,13 @@ You can modify this image on DESIGN.txt
 
 ![Keymap Layout](https://github.com/user-attachments/assets/2c8f43e1-4b9a-4e38-8130-b1bd082a09ac)
 
+---
+
+## 🖼️ Custom OLED Logo
+
+Here's the custom logo that appears on the OLED display of my Corne keyboard:
+
+![OLED Logo](https://github.com/user-attachments/assets/8509cddb-127d-4b7e-b0c0-a05c91ddf8a0)
 
 ---
 
