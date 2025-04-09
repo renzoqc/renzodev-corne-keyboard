@@ -70,9 +70,10 @@ qmk compile -kb crkbd/rev1 -km renzodev_keyboard
 
 ## 🎨 Layout Diagram
 
-A visual layout of the keymap and layer configuration will appear here soon!
+You can modify this image on DESIGN.txt
 
-![Keymap Layout](images/layout.png) <!-- Update this path if needed -->
+![Keymap Layout](https://github.com/user-attachments/assets/2c8f43e1-4b9a-4e38-8130-b1bd082a09ac)
+
 
 ---
 
